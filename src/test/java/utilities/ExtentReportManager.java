@@ -5,6 +5,7 @@ import java.io.File;
 import java.io.IOException;
 //import java.net.URL;
 import java.net.URL;
+import java.nio.file.Files;
 
 //Extent report 5.x...//version
 
@@ -12,6 +13,7 @@ import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.List;
 
+import org.apache.commons.io.FileUtils;
 import org.apache.commons.mail.DefaultAuthenticator;
 import org.apache.commons.mail.ImageHtmlEmail;
 import org.apache.commons.mail.resolver.DataSourceUrlResolver;
@@ -41,6 +43,18 @@ public class ExtentReportManager implements ITestListener {
 		String currentdatetimestamp=df.format(dt);
 		*/
 		
+		//String src_report = "F:\\Automation\\SriniAutomation\\OpencartV121\\reports\\*.html";
+		//String dest_report_backup = "F:\\Automation\\SriniAutomation\\OpencartV121\\reports_backup";
+		//Files.move(src_report, dest_report_backup, null)
+		
+		File src = new File("/home/data/src");
+        File dest = new File("/home/data/dest");
+ 
+        try {
+            FileUtils.copyDirectory(src, dest);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
 		String timeStamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());// time stamp
 		repName = "Test-Report-" + timeStamp + ".html";
 		sparkReporter = new ExtentSparkReporter(".\\reports\\" + repName);// specify location of the report

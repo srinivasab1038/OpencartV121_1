@@ -1,0 +1,53 @@
+13:47:39.588 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+13:47:40.936 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+13:47:43.456 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+13:47:43.459 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
+13:47:48.396 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+13:47:48.486 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation is success
+13:47:48.487 [main] INFO  testCases.TC001_AccountRegistrationTest - End of TC001_AccountRegistrationTest
+13:47:55.463 [main] INFO  testCases.TC002_LoginTest - Start of TC002_LoginTest...
+13:47:55.659 [main] INFO  testCases.TC002_LoginTest - clicked on MyAccount link
+13:47:56.979 [main] INFO  testCases.TC002_LoginTest - clicked on Login link
+13:48:04.165 [main] INFO  testCases.TC002_LoginTest - Provided email and password and clicked on Login button
+13:48:04.262 [main] INFO  testCases.TC002_LoginTest - Logged into MyAccount page
+13:48:04.263 [main] INFO  testCases.TC002_LoginTest - End of TC002_LoginTest...
+14:21:47.799 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\DPS_Hybrid_Automation_Framework\OpencartV121\master.xml"
+14:21:55.288 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+14:21:56.738 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+14:21:58.052 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+14:21:58.057 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
+14:22:01.015 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+14:22:01.086 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation is success
+14:22:01.086 [main] INFO  testCases.TC001_AccountRegistrationTest - End of TC001_AccountRegistrationTest
+14:22:06.084 [main] INFO  testCases.TC002_LoginTest - Start of TC002_LoginTest...
+14:22:07.429 [main] INFO  testCases.TC002_LoginTest - clicked on MyAccount link
+14:22:08.550 [main] INFO  testCases.TC002_LoginTest - clicked on Login link
+14:22:10.642 [main] INFO  testCases.TC002_LoginTest - Provided email and password and clicked on Login button
+14:22:10.716 [main] INFO  testCases.TC002_LoginTest - Logged into MyAccount page
+14:22:10.717 [main] INFO  testCases.TC002_LoginTest - End of TC002_LoginTest...
+20:57:34.025 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Automation\SriniAutomation\OpencartV121\grouping.xml"
+20:57:45.242 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+20:57:46.641 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+20:57:47.781 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+20:57:47.785 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
+20:57:51.153 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+20:57:51.218 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation is success
+20:57:51.218 [main] INFO  testCases.TC001_AccountRegistrationTest - End of TC001_AccountRegistrationTest
+20:57:57.888 [main] INFO  testCases.TC002_LoginTest - Start of TC002_LoginTest...
+20:57:59.084 [main] INFO  testCases.TC002_LoginTest - clicked on MyAccount link
+20:58:00.403 [main] INFO  testCases.TC002_LoginTest - clicked on Login link
+20:58:03.203 [main] INFO  testCases.TC002_LoginTest - Provided email and password and clicked on Login button
+20:58:03.329 [main] INFO  testCases.TC002_LoginTest - Logged into MyAccount page
+20:58:03.330 [main] INFO  testCases.TC002_LoginTest - End of TC002_LoginTest...
+10:17:51.702 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Automation\SriniAutomation\OpencartV121\grouping.xml"
+10:18:04.144 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+10:18:04.504 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount link
+10:18:06.280 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+10:18:06.283 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details..
+10:18:11.249 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+10:18:11.396 [main] INFO  testCases.TC001_AccountRegistrationTest - Validation is success
+10:18:11.396 [main] INFO  testCases.TC001_AccountRegistrationTest - End of TC001_AccountRegistrationTest
+10:18:24.614 [main] INFO  testCases.TC002_LoginTest - Start of TC002_LoginTest...
+10:18:24.895 [main] INFO  testCases.TC002_LoginTest - clicked on MyAccount link
+10:18:26.680 [main] INFO  testCases.TC002_LoginTest - clicked on Login link
+10:18:30.366 [main] INFO  testCases.TC002_LoginTest - Provided email and password and clicked on Login button
